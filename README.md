@@ -16,3 +16,13 @@ Chapter2: This is python code for "random" and "Guess Number"-Game.
 	C2_Challenge1: 抛硬币游戏.
 
 	C2_Challenge2: A reverse game of C2.py which is for computer to guess number.
+
+Chapter3: This is python code for "for", "list" and "tuple".
+
+	C3: The use of "for" and "tuple".
+
+	C3 Word_Jumbel: A game about 根据乱序猜单词.
+
+	C3_Challenge1: 计数程序.
+
+	C3_Challenge2: 根据提示是否存在某个字母-猜单词（共五次机会）.
