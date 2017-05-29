@@ -26,3 +26,11 @@ Chapter3: This is python code for "for", "list" and "tuple".
 	C3_Challenge1: 计数程序.
 
 	C3_Challenge2: 根据提示是否存在某个字母-猜单词（共五次机会）.
+
+Chapter4: This is python code for "List", "Tuple" and "Function".
+	
+	C4: List and Tuple.
+
+	C4_2: Some defined functions.
+
+	C4_3: Game:Tic-Tac-Toe.
