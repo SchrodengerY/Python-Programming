@@ -34,3 +34,21 @@ Chapter4: This is python code for "List", "Tuple" and "Function".
 	C4_2: Some defined functions.
 
 	C4_3: Game:Tic-Tac-Toe.
+
+Chapter5: This is python code for file-r, file-w, pickle and shelf.
+
+	C5: Read file, write, readline and pickle, shelf.
+
+	C5_2: Empty File.
+
+Chapter6: This is python code for simple one "Class".
+
+	C6: 一些简单的演示，包括创建类和对象，@statisticmethod, 私有变量和方法，演示属性property.
+
+	C6_2: Critter Caretaker程-version 1.0: 电子宠物.
+
+	C6_Challenge1: Critter Caretaker-version 2.0: 可以手动输入食物量和玩耍时间.
+
+	C6_Challenge2: 电视机类，可以切换频道和调整音量.
+
+	C6_Challenge3: Critter Caretaker-version 3.0: 增加了一个后门程序.
