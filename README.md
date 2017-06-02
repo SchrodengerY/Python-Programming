@@ -52,3 +52,18 @@ Chapter6: This is python code for simple one "Class".
 	C6_Challenge2: 电视机类，可以切换频道和调整音量.
 
 	C6_Challenge3: Critter Caretaker-version 3.0: 增加了一个后门程序.
+
+Chapter7: This is python code for complex multiply "class".
+
+	C7: 多个类之间的交互及类的继承.
+
+	simple_game: 演示模块的导入及使用.
+
+	cards: BlackJack游戏中的卡牌模块.
+
+	games: BlackJack游戏中的游戏模块.
+
+	blackjack: 21点游戏.
+
+	C7_Challenge1: Empty File.
+
