@@ -67,3 +67,21 @@ Chapter7: This is python code for complex multiply "class".
 
 	C7_Challenge1: Empty File.
 
+Chapter8: This is python code for GUI programming.
+
+	C8: 简单的窗体演示.
+
+	click_counter: button按钮计数.
+
+	labeler: 插入label.
+
+	lazy_buttons: button演示.
+
+	lazy_buttons2: 使用类进行button演示.
+
+	longevity: 输入密码显示文本.
+
+	mad_lib: 编故事窗体.
+
+	movie_chooser: 选择电影.
+		
